@@ -6,5 +6,5 @@ CS @ UMD - New Grad
 
 I like to listen, talk, read, write, and create. My current interests are type theory, alternative models of computation, hypercomputation, logic, philosophy, political theology, aesthetics, power, and identity.
 
-Check my projects & my writings below
+Check my projects & my writings:
 [Website](https://gabrieldabbah.com)
